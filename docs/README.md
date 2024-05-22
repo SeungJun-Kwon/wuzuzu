@@ -49,6 +49,9 @@
 ### ✔️ Community
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><img src="https://img.shields.io/badge/zep-0078D4?style=for-the-badge&logo=&logoColor=white">
 
+## 📝 ERD
+
+<img src="https://github.com/SeungJun-Kwon/wuzuzu/assets/80217301/190f9a6d-6641-4c0b-9fdd-5f8fd0d57d48"/>
 
 ## ✅ 주요 기능
 
